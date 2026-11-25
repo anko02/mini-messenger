@@ -112,7 +112,7 @@ Model: a `User` has an id and a unique username. A `Conversation` has a list of 
 
 ConsoleUi ──▶ Services (User / Conversation / Message) ──▶ Repository (interface)
 
-&#x20;                                                              └─ JsonRepository
+                                                              └─ JsonRepository
 
 ```
 
